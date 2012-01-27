@@ -1,0 +1,2 @@
+Server = ftp://mirrors.kernel.org/archlinux/$repo/os/$arch
+Server = http://mirrors.kernel.org/archlinux/$repo/os/$arch
